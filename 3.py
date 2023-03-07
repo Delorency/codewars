@@ -4,7 +4,7 @@ def spiralize(size):
 		counter = pl
 		item = [0]*size
 		left = False
-		step = 0
+		step = 0 
 
 		for j in range(0, size):
 			if counter != 0:
